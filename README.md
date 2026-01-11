@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Akash S.K
+# 👋 Hello, Myself Akash S.K
 
 🎓 Final Year B.Tech Biotechnology Student | 🎯 GATE 2026 Aspirant  
 💡 Passionate about AI in Biotechnology | 🤖 Future AI Biotechnologist  
@@ -39,23 +39,15 @@
 - 🧪 *Internships*: RGCB Kochi | TICEL Bio Park | RCRI Hyderabad  
 - 📜 *Courses*:  
   - Google Advanced Data Analytics (in progress)  
-  - Coursera ML by Stanford  
   - DeepLearning.AI TensorFlow Developer  
   - Bioinformatics Specialization (PMIST)
 
 ---
 
-## 📊 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-sk-bio&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-sk-bio&layout=compact&theme=radical)  
-
----
-
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/akash-sk-bio)  
-- 📧 Email: akashsk.bio@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/akash-sk-ai-biotech)  
+- 📧 Email: akash.ai.biotech@gmail.com 
 - 📁 Portfolio: *Coming Soon*  
 
 > “Bridging biology with intelligence, one cell and one algorithm at a time.”
