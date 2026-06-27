@@ -1,57 +1,149 @@
-# 👋 Hello, Myself Akash S.K
+# <div align="center">
 
-🎓 Final Year B.Tech Biotechnology Student | 🎯 GATE 2026 Aspirant  
-💡 Passionate about AI in Biotechnology | 🤖 Future AI Biotechnologist  
-🌍 Based in Tamil Nadu, India 🇮🇳  
+# 👋 Hey, I'm **Akash Selvam**
 
----
+### **Biotechnology × AI Engineer**
 
-## 🚀 Tech Stack
+*Building intelligent technologies where Biology meets Artificial Intelligence.*
 
-- **Languages**: Python, R
-- **AI/ML**: scikit-learn, TensorFlow
-- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib  
-- **Tools**: Jupyter, Google Colab, Notion, GitHub  
-- **Bioinformatics**: MEGA, Geneious, BLAST  
-- **Platforms**: GitHub, LinkedIn, Coursera, Google Cloud
+<br>
 
----
-
-## 🔬 Featured Projects
-
-🔹 **AI-based Estrus Detection System**  
-> Biosensor-based progesterone detection using enzymatic analysis powered by AI.
-
-🔹 **Loan Default Prediction (Gradient Boosting)**  
-> Supervised machine learning model to predict borrower default using financial indicators.  
-
-🔹 **Fake Instagram Profile Detector (CNN Model)**  
-> Deep learning classifier using image & metadata to identify fake accounts.  
-
-🔹 **Notion Skill Mastery OS (UI/UX + Automation)**  
-> A productivity dashboard to master technical & soft skills with integrated trackers and systems.
+<p align="center">
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="YOUR_YOUTUBE">
+    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## About Me
 
-- 🥈 *2nd Prize* @ Taylor’s University, Malaysia (Design Thinking, 2024)
-- 🧪 *Internships*: RGCB Kochi | TICEL Bio Park | RCRI Hyderabad  
-- 📜 *Courses*:  
-  - Google Advanced Data Analytics (in progress)  
-  - DeepLearning.AI TensorFlow Developer  
-  - Bioinformatics Specialization (PMIST)
+I build AI-powered software inspired by biotechnology, scientific research, and real-world problem solving.
+
+My interests span Artificial Intelligence, Machine Learning, Scientific Computing, Automation, and Open Source development. Alongside engineering, I create educational content to make AI and Biotechnology more accessible to students and professionals.
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/akash-sk-ai-biotech)  
-- 📧 Email: akash.ai.biotech@gmail.com 
-- 📁 Portfolio: *Coming Soon*  
-
-> “Bridging biology with intelligence, one cell and one algorithm at a time.”
+* 🧬 AI for Biotechnology
+* 🤖 Machine Learning
+* 🐍 Python Development
+* 📊 Data Science
+* 🧠 Large Language Models
+* ⚡ AI Automation
+* 🌍 Open Source
+* 🎥 Tech Content Creation
 
 ---
 
-*Feel free to explore, fork, or collaborate on my projects. I'm always open to learning and building together!* 🌱
+# Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,linux"/>
+</p>
+
+### Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**Libraries**
+
+NumPy • Pandas • Scikit-Learn • OpenCV • LangChain • Transformers
+
+---
+
+## Featured Projects
+
+| Project              | Description                             |
+| -------------------- | --------------------------------------- |
+| 🧬 AI Biotechnology  | Applying AI to biotechnology challenges |
+| 🤖 Machine Learning  | End-to-end ML projects                  |
+| 🐍 Python Utilities  | Useful automation and developer tools   |
+| 🌐 Portfolio         | Personal website                        |
+| 📚 Research Projects | Biotechnology & AI research             |
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-sk-bio&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-sk-bio&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-sk-bio&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-sk-bio&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Achievements
+
+* 🚀 AI Projects
+* 🧬 Biotechnology Research
+* 📊 Machine Learning
+* 🎥 Educational Content
+* 🌍 Open Source Contributions
+
+---
+
+# Currently Learning
+
+* Agentic AI
+* AI Workflows
+* Multi-Agent Systems
+* Computer Vision
+* Scientific AI
+* Edge AI
+
+---
+
+# Beyond Code
+
+Outside coding, you'll usually find me:
+
+* 📖 Reading scientific papers
+* 🎥 Creating AI & Biotechnology content
+* 💡 Exploring emerging technologies
+* ☕ Learning something new every day
+
+---
+
+## 🌐 Connect With Me <p align="center"> <a href="https://akash-sk-bio.github.io/portfolio/#hero"> 🌐 <strong>Portfolio</strong> </a> • <a href="https://www.linkedin.com/in/akash-sk-ai-biotech"> 💼 <strong>LinkedIn</strong> </a> • <a href="https://www.youtube.com/@AKASH-BIO-AI"> 📺 <strong>YouTube</strong> </a> • <a href="https://www.instagram.com/akash.bio.ai/"> 📸 <strong>Instagram</strong> </a> • <a href="mailto:akash.ai.biotech@gmail.com"> 📧 <strong>Email</strong> </a> </p>
+
+---
+
+<div align="center">
+
+### *"Engineering tomorrow by combining Biology, Artificial Intelligence, and Code."*
+
+</div>
