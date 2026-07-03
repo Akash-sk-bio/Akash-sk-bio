@@ -204,40 +204,6 @@ currently_learning:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ─────────  C O N T R I B U T I O N   S N A K E  ─────────
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Akash-sk-bio/Akash-sk-bio/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-sk-bio/Akash-sk-bio/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Akash-sk-bio/Akash-sk-bio/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       LATEST YOUTUBE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ─────────  L A T E S T   O N   Y O U T U B E  ─────────
-
-</div>
-
-<!-- YOUTUBE-VIDEOS:START -->
-> Auto-updated every 6 hours by GitHub Actions — [Subscribe to @AKASH-BIO-AI](https://www.youtube.com/@AKASH-BIO-AI)
-<!-- YOUTUBE-VIDEOS:END -->
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--            CONNECT — Connection Section Layout + Logos          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
