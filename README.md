@@ -62,7 +62,7 @@ currently_learning:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="./assets/section-features.svg" width="100%" alt="What I Build"/>
+<img src="section-features.svg" width="100%" alt="What I Build"/>
 </div>
 
 ---
