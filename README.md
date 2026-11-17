@@ -287,10 +287,10 @@ Content Creation    ██████████░░░░░░░░░░
 <a href="https://www.linkedin.com/in/akash-sk-ai-biotech">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@AKASH-BIO-AI">
+<a href="https://www.youtube.com/@akashskai">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/akash.bio.ai/">
+<a href="https://www.instagram.com/akashsk.ai/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
 </a>
 <a href="mailto:akash.ai.biotech@gmail.com">
